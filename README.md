@@ -109,12 +109,6 @@ Follow these steps to set up the project locally:
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
-## Contact
-
-For questions or suggestions, feel free to reach out:
-- Email: sarthak613singh@gmail.com
-- GitHub: [redhunt777](https://github.com/redhunt777)
-
 ---
 Thank you for using the Freshers' Event Website! We hope you have a great time at the event.
 
